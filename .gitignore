@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-.log
+
+#.DS_Store
+ **/*.log
+
 # C extensions
 *.so
 
