@@ -1,0 +1,264 @@
+1517733249254	geckodriver	INFO	geckodriver 0.19.1
+1517733249293	geckodriver	INFO	Listening on 127.0.0.1:5130
+1517733252918	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\VISHAL\\AppData\\Local\\Temp\\rust_mozprofile.ME5sLG0fFPYk"
+1517733263615	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517733283211	Marionette	INFO	Listening on port 5138
+1517733284016	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.bel-india.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 6236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517733438436	geckodriver	INFO	geckodriver 0.19.1
+1517733438473	geckodriver	INFO	Listening on 127.0.0.1:5236
+1517733441689	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\VISHAL\\AppData\\Local\\Temp\\rust_mozprofile.DSGc3eNyaHS1"
+1517733444559	Marionette	INFO	Enabled via --marionette
+1517733451478	Marionette	INFO	Listening on port 5244
+1517733452448	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.bel-india.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517733928042	geckodriver	INFO	geckodriver 0.19.1
+1517733928078	geckodriver	INFO	Listening on 127.0.0.1:5448
+1517733931266	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\VISHAL\\AppData\\Local\\Temp\\rust_mozprofile.6rO8AB0bgsBx"
+1517733935929	Marionette	INFO	Enabled via --marionette
+1517733944607	Marionette	INFO	Listening on port 5458
+1517733945737	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://bitmesra.ac.in/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://bitmesra.ac.in/meplayer/demo/demo.js, line 49: TypeError: languageSelector is null
+JavaScript error: https://bitmesra.ac.in/js/jquery-1.10.2.min.js, line 4: Error: Permission denied to access property "parentNode"
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+[Parent 8852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 8852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1000B,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517752010942	geckodriver	INFO	geckodriver 0.19.1
+1517752010974	geckodriver	INFO	Listening on 127.0.0.1:9631
+1517752014260	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\VISHAL\\AppData\\Local\\Temp\\rust_mozprofile.wZ4VSu2YJYxQ"
+1517752018469	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517752027963	Marionette	INFO	Listening on port 9645
+1517752030781	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://bitmesra.ac.in/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://bitmesra.ac.in/meplayer/demo/demo.js, line 49: TypeError: languageSelector is null
+[Parent 8568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517752554187	geckodriver	INFO	geckodriver 0.19.1
+1517752554224	geckodriver	INFO	Listening on 127.0.0.1:10875
+1517752557151	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\VISHAL\\AppData\\Local\\Temp\\rust_mozprofile.tEDlff1ZIQrn"
+1517752576811	Marionette	INFO	Enabled via --marionette
+1517752583592	Marionette	INFO	Listening on port 10940
+1517752584576	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://bitmesra.ac.in/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://bitmesra.ac.in/meplayer/demo/demo.js, line 49: TypeError: languageSelector is null
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517753686062	geckodriver	INFO	geckodriver 0.19.1
+1517753686097	geckodriver	INFO	Listening on 127.0.0.1:14631
+1517753689283	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\VISHAL\\AppData\\Local\\Temp\\rust_mozprofile.dBWZCnLs8QVD"
+1517753693705	Marionette	INFO	Enabled via --marionette
+1517753700326	Marionette	INFO	Listening on port 14658
+1517753700528	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://bitmesra.ac.in/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://bitmesra.ac.in/meplayer/demo/demo.js, line 49: TypeError: languageSelector is null
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517754080748	geckodriver	INFO	geckodriver 0.19.1
+1517754080780	geckodriver	INFO	Listening on 127.0.0.1:1753
+1517754083971	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\VISHAL\\AppData\\Local\\Temp\\rust_mozprofile.f9rOGW0dsjKy"
+1517754087974	Marionette	INFO	Enabled via --marionette
+1517754094066	Marionette	INFO	Listening on port 1777
+1517754094906	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://bitmesra.ac.in/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://bitmesra.ac.in/meplayer/demo/demo.js, line 49: TypeError: languageSelector is null
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517754334422	geckodriver	INFO	geckodriver 0.19.1
+1517754334455	geckodriver	INFO	Listening on 127.0.0.1:2639
+1517754337626	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\VISHAL\\AppData\\Local\\Temp\\rust_mozprofile.AoIUcr99L5I0"
+1517754341868	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517754355200	Marionette	INFO	Listening on port 2651
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517754355552	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\open1517754502957	Marionette	INFO	Enabled via --marionette
+1517754509418	Marionette	INFO	Listening on port 3004
+1517754509656	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8024, MediaPlayback #1] WARNING: Decoder=286f483ac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - class RefPtr<class mozilla::MozPromise<class RefPtr<class mozilla::MediaTrackDemuxer::SamplesHolder>,class mozilla::MediaResult,1> > __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3365
+[Child 8024, MediaPlayback #2] WARNING: Decoder=286f483ac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - class RefPtr<class mozilla::MozPromise<class RefPtr<class mozilla::MediaTrackDemuxer::SamplesHolder>,class mozilla::MediaResult,1> > __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3365
+[Child 8024, MediaPlayback #1] WARNING: Decoder=286f483ac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - class RefPtr<class mozilla::MozPromise<class RefPtr<class mozilla::MediaTrackDemuxer::SamplesHolder>,class mozilla::MediaResult,1> > __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3365
+[Child 8024, MediaPlayback #2] WARNING: Decoder=286f483ac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - class RefPtr<class mozilla::MozPromise<class RefPtr<class mozilla::MediaTrackDemuxer::SamplesHolder>,class mozilla::MediaResult,1> > __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3365
+[Child 8024, MediaPlayback #2] WARNING: Decoder=286f483ac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - class RefPtr<class mozilla::MozPromise<class RefPtr<class mozilla::MediaTrackDemuxer::SamplesHolder>,class mozilla::MediaResult,1> > __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3365
+[Child 8024, MediaPlayback #1] WARNING: Decoder=286f483ac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - class RefPtr<class mozilla::MozPromise<class RefPtr<class mozilla::MediaTrackDemuxer::SamplesHolder>,class mozilla::MediaResult,1> > __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3365
+[Child 8024, MediaPlayback #2] WARNING: Decoder=286f483ac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - class RefPtr<class mozilla::MozPromise<class RefPtr<class mozilla::MediaTrackDemuxer::SamplesHolder>,class mozilla::MediaResult,1> > __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3365
+[Child 8024, MediaPlayback #3] WARNING: Decoder=286f483ac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - class RefPtr<class mozilla::MozPromise<class RefPtr<class mozilla::MediaTrackDemuxer::SamplesHolder>,class mozilla::MediaResult,1> > __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3365
+[Child 8024, MediaPlayback #2] WARNING: Decoder=286f483ac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - class RefPtr<class mozilla::MozPromise<class RefPtr<class mozilla::MediaTrackDemuxer::SamplesHolder>,class mozilla::MediaResult,1> > __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3365
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521925682076	geckodriver	INFO	geckodriver 0.19.1
+1521925682930	geckodriver	INFO	Listening on 127.0.0.1:10354
+1521925687556	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\VISHAL\\AppData\\Local\\Temp\\rust_mozprofile.U8NIakurk8yC"
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+1521925694252	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+1521925711586	Marionette	INFO	Listening on port 10364
+1521925712904	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://bitmesra.ac.in/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://bitmesra.ac.in/meplayer/demo/demo.js, line 49: TypeError: languageSelector is null
+JavaScript warning: https://bitmesra.ac.in/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://bitmesra.ac.in/meplayer/demo/demo.js, line 49: TypeError: languageSelector is null
+JavaScript error: https://bitmesra.ac.in/Display_Album_List_089k7DDgTY78-Po?cid=1, line 1302: TypeError: document.getElementById(...) is null
+JavaScript warning: https://bitmesra.ac.in/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://bitmesra.ac.in/meplayer/demo/demo.js, line 49: TypeError: languageSelector is null
+JavaScript error: https://bitmesra.ac.in/Display_Gallery_Images?cid=1&aid=28, line 1327: TypeError: document.getElementById(...) is null
+JavaScript warning: https://bitmesra.ac.in/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://bitmesra.ac.in/meplayer/demo/demo.js, line 49: TypeError: languageSelector is null
+JavaScript error: https://bitmesra.ac.in/Display_Album_List_089k7DDgTY78-Po?cid=1, line 1302: TypeError: document.getElementById(...) is null
+JavaScript error: https://bitmesra.ac.in/meplayer/demo/demo.js, line 49: TypeError: languageSelector is null
+JavaScript error: https://bitmesra.ac.in/Display_Gallery_Images?cid=1&aid=25, line 1327: TypeError: document.getElementById(...) is null
+JavaScript error: https://bitmesra.ac.in/meplayer/demo/demo.js, line 49: TypeError: languageSelector is null
+JavaScript error: https://bitmesra.ac.in/Display_Album_List_089k7DDgTY78-Po?cid=1, line 1302: TypeError: document.getElementById(...) is null
+JavaScript error: https://bitmesra.ac.in/meplayer/demo/demo.js, line 49: TypeError: languageSelector is null
+JavaScript error: https://bitmesra.ac.in/Display_Gallery_Images?cid=1&aid=20, line 1327: TypeError: document.getElementById(...) is null
+JavaScript error: https://bitmesra.ac.in/meplayer/demo/demo.js, line 49: TypeError: languageSelector is null
+JavaScript error: https://bitmesra.ac.in/Display_Gallery_Images?cid=1&aid=20, line 1338: TypeError: document.getElementById(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://bitmesra.ac.in/meplayer/demo/demo.js, line 49: TypeError: languageSelector is null
+JavaScript error: https://bitmesra.ac.in/Display_Gallery_Images?cid=1&aid=20, line 1327: TypeError: document.getElementById(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://bitmesra.ac.in/meplayer/demo/demo.js, line 49: TypeError: languageSelector is null
+JavaScript error: https://bitmesra.ac.in/Display_Gallery_Images?cid=1&aid=20, line 1327: TypeError: document.getElementById(...) is null
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://bitmesra.ac.in/meplayer/demo/demo.js, line 49: TypeError: languageSelector is null
+JavaScript error: https://bitmesra.ac.in/meplayer/build/mediaelement-and-player.min.js, line 23: TypeError: b.closest is not a function
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\VISHAL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Parent 9568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7052, Chrome_ChildThread] WARNING:[Parent 9568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
